@@ -1,0 +1,11 @@
+.formstyle {
+    border: 2px solid white;
+
+}
+.formstyle>form{
+    margin: 50px;
+}
+.formstyle>h3{
+    margin-top: 20px;
+    margin-left: 10px;
+}

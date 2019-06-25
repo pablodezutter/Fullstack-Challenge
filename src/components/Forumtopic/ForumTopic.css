@@ -1,0 +1,12 @@
+h4 {
+    text-align: center;
+}
+
+.forumpost {
+    background-color: #FFFFFF;
+    color: black;
+}
+
+:hover.forumpost {
+    text-decoration: underline;
+}

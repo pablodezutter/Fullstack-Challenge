@@ -1,0 +1,26 @@
+.Container {
+  width: 100%;
+}
+
+.row {
+  padding: 50px;
+  width: 500px;
+}
+
+button {
+  float: right;
+  margin-bottom: 30px;
+}
+
+.title {
+  font-family: Georgia, "Times New Roman", Times, serif;
+  font-size: 20px;
+  float: left;
+}
+
+.dropMenu {
+  font-style: italic;
+  font-size: 18px;
+
+  margin-left: -10px;
+}
